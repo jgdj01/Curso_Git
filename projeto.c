@@ -2,13 +2,11 @@
 #include <stdlib.h>
 
 int subtracao(int a, int b){
-	int sub_num = a - b;
-	return sub_num;
+	return (a-b);
 }
 
 int soma(int a, int b){
-	int soma_num = a + b;
-	return soma_num;
+	return (a+b);
 }
 
 
